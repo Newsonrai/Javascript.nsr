@@ -264,12 +264,12 @@
 
 // 49.perfect square
 
-const prompt=require("prompt-sync")();
+// const prompt=require("prompt-sync")();
 
-let num=prompt("Enter the number:")
-if(Math.sqrt(num)%1==0){
-    console.log("Perfect square")
-}else{
-    console.log("Not perfect square")
-}
+// let num=prompt("Enter the number:")
+// if(Math.sqrt(num)%1==0){
+//     console.log("Perfect square")
+// }else{
+//     console.log("Not perfect square")
+// }
 

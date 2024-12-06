@@ -4,7 +4,7 @@
 // console.log(friends[3])
 
 
-let friends=["Kiran","Mishan","Bharat","newson123"]
-for(i=0;i<friends.length;i++){
-    console.log(friends[i])
-}
+// let friends=["Kiran","Mishan","Bharat","newson123"]
+// for(i=0;i<friends.length;i++){
+//     console.log(friends[i])
+// }
