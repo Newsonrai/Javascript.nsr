@@ -66,3 +66,30 @@
 //     }
 // })
 // console.log("The sum of numbers greater than 1 is",sum)
+
+
+// 4. Reduce function---->is used to reduce an array to a single value 
+
+// let arr=[1,2,3,4,5]
+// let arr1=arr.reduce((acc,element) => {
+//     return acc*element
+// })
+// console.log(arr1)
+
+// task 
+// 1.Write a function that filter out the even numbers from an array
+
+// const arr=[1,2,3,4,5]
+// const arr1=arr.filter((element) => {
+//     return element%2==0
+// })
+// console.log(arr1)
+
+// 2.Filter an array to print only odd numbers
+
+// const array=[1,2,3,4,5]
+// const arr=array.filter((element) => {
+//     return element%2!=0
+// })
+// console.log(arr)
+
