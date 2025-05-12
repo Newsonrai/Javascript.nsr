@@ -108,13 +108,13 @@
 
 // 8.Destructuring of object
 
-// let obj={
-// names:"Newson",
-// age:24,
-// city:"Delhi"
-// }
-// let {names,age,city}=obj
-// console.log(names,age,city)
+let obj={
+names:"Newson",
+age:24,
+city:"Bhaktapur"
+}
+let {names,age,city}=obj
+console.log(names,age,city)
 
 // 9.spread operator or Rest operator
 
@@ -124,3 +124,7 @@
 // let arr1=[...ar,6,7,8,9]
 // console.log(arr1)
 
+// 10.Rest operator
+// const [first, ...rest] = [1, 2, 3, 4];
+// console.log(first); // Output: 1
+// console.log(rest);  // Output: [2, 3, 4]
